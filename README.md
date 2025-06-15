@@ -227,14 +227,6 @@ ff.visualize_grid("Título", save_path="resultado.png")
 - `is_valid(x, y)`: Verifica se uma posição está dentro dos limites do grid
 - `generate_random_grid(rows, cols, obstacle_percentage)`: Gera grids aleatórios
 
-## Possíveis Melhorias Futuras
-
-1. **Interface Gráfica Interativa**: Implementar uma GUI para visualização em tempo real
-2. **Animação do Processo**: Mostrar o preenchimento acontecendo passo a passo
-3. **Suporte a Diagonais**: Permitir conexões diagonais entre células
-4. **Otimizações**: Implementar versões paralelas para grids muito grandes
-5. **Mais Padrões de Obstáculos**: Adicionar geradores de labirintos e padrões complexos
-
 ## Licença
 
 Este projeto é desenvolvido para fins educacionais como parte do curso de Engenharia de Software.
